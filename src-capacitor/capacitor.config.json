@@ -1,0 +1,7 @@
+{
+  "appId": "com.group404.tools",
+  "appName": "Group 404 Tools",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

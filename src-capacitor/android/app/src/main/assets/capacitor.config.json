@@ -1,0 +1,10 @@
+{
+  "appId": "com.group404.tools",
+  "appName": "IEC60751",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.1.8:8080"
+  }
+}
