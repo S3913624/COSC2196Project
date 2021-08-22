@@ -1,7 +1,7 @@
 {
-  "name": "iec60751",
+  "name": "cosc2196project",
   "version": "0.0.1",
-  "description": "Calculates temperature from resistance in ohms",
+  "description": "A Quasar Framework app",
   "author": "Perrin Wardle <s3913118@student.rmit.edu.au>",
   "private": true,
   "dependencies": {

@@ -1,6 +1,6 @@
-# IEC60751 (iec60751)
+# Group 404 Tools (cosc2196project)
 
-Calculates temperature from resistance in ohms
+A Quasar Framework app
 
 ## Install the dependencies
 ```bash

@@ -43,6 +43,17 @@
             <q-item-section avatar><q-icon color="primary" name="calculate"/></q-item-section>
             <q-item-section>IEC60751 Calculator</q-item-section>
           </q-item>
+
+          <q-item active-class="nav-active">
+            <q-item-section avatar><q-icon color="primary" name="functions"/></q-item-section>
+            <q-item-section>Callendar-Van Dusen Equation</q-item-section>
+          </q-item>
+
+          <q-item active-class="nav-active">
+            <q-item-section avatar><q-icon color="primary" name="assessment"/></q-item-section>
+            <q-item-section>Accuracy Tolerance Calculator</q-item-section>
+          </q-item>          
+
         </q-list>
       </q-list>
     </q-drawer>

@@ -1,12 +1,15 @@
 <template>
-  <q-page class="flex flex-center">
-    <h1>TODO:MAKE THIS PAGE LOOK REAL GOOD PLE</h1>
-    <h4>ASE ALSO REMOVE THAT IMAGE</h4>
-    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >
+  <q-page>
+    <div class="q-gutter-y-md row justify-center">
+      <div class="order:1">
+        <h4>404 Tools - EARLY TESTING BUILD</h4>
+      </div>
+      <div class="order:2">
+        <p>Welcome to the Early Testing Phase of 404 Tools.
+        This app is as a hub for tools and experiments provided by Group 404.
+        All features should be considered EXPERIMENTAL, unless stated otherwise.</p>
+      </div>
+    </div>
   </q-page>
 </template>
 

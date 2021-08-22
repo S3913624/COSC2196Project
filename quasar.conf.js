@@ -137,9 +137,9 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: `IEC60751`,
-        short_name: `IEC60751`,
-        description: `Calculates temperature from resistance in ohms`,
+        name: `Group 404 Tools`,
+        short_name: `Group 404 Tools`,
+        description: `A Quasar Framework app`,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
@@ -204,7 +204,7 @@ module.exports = configure(function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'iec60751'
+        appId: 'cosc2196project'
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain
